@@ -1,2 +1,4 @@
 # ORBIS (Optimally Rescaled Bayesian Iterative Sampling)
-![ORBIS](https://github.com/MosaicGroupPSU/ORBIS/assets/99440297/937d1543-5a51-406e-a9f2-ea146f445ef8)
+
+![ORBIS1](https://github.com/MosaicGroupPSU/ORBIS/assets/99440297/72beb78b-e553-41c9-927c-c5732187422f)
+

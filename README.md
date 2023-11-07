@@ -1,1 +1,1 @@
-# ORBIS
+# ORBIS (Optimally Rescaled Bayesian Iteratve Sampling)

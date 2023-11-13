@@ -5,7 +5,7 @@
 
 **O**ptimally **R**escaled **B**ayesian **I**terative **S**ampling (ORBIS) is an efficient method for construction of cluster expansions for complex, nonperiodic, or low-dimensional systems with a high number of components.
 <p align="center">
-<img src="https://github.com/MosaicGroupPSU/orbis/blob/1f3524719ed0eab7d3908e011166a74a127e0eb4/orbis%20logo.png" width="60%">
+<img src="https://github.com/MosaicGroupPSU/orbis/blob/d76a063ab02f368249088687301ccc6790bea2db/orbis_logo.png" width="60%">
 </p>
 
 ## Example Notebook

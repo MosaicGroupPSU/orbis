@@ -1,5 +1,6 @@
 <h1 align="center">ORBIS</h1>
 
+[![arXiv](https://img.shields.io/badge/arXiv-2302.14231-blue)](http://arxiv.org/abs/2311.06179)
 [![Requires Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg?logo=python&logoColor=white)](https://python.org/downloads)
 
 **O**ptimally **R**escaled **B**ayesian **I**terative **S**ampling (ORBIS) is an efficient method for construction of cluster expansions for complex, nonperiodic, or low-dimensional systems with a high number of components.

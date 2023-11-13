@@ -13,19 +13,19 @@
 
 An example for Pt:Ni system:       [![Open in Google Colab]](https://colab.research.google.com/drive/1SMQreJ8h0Jd1biTIxc6N6Pca0jlBfXxK?usp=sharing)
 
-<!--
+
 ## Reference
 
 If you use ORBIS, please cite [this paper]():
 
 ```bib
-@article{,
-    title={Cluster Expansion by Transfer Learning from Empirical Potentials},
-    DOI={},
-    journal={},
-    author={A. Dana, L. Mu, S. Gelin, S. B. Sinnott, I. Dabo},
-    year={},
-    pages={}
+@misc{dana2023cluster,
+      title={Cluster Expansion by Transfer Learning from Empirical Potentials}, 
+      author={A. Dana and L. Mu and S. Gelin and S. B. Sinnott and I. Dabo},
+      year={2023},
+      eprint={2311.06179},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.mtrl-sci}
 }
 ```
--->
+

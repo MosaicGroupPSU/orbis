@@ -106,6 +106,10 @@ This part of the code mainly remains the same except for the scaling part. You s
     # Calculate the mean of rescaled contributions and their covariance matrix
     X_rescaled = np.stack((f_comb_rescaled, f_reaxff_rescaled, f_meam_rescaled, f_eam_rescaled, f_CHGNet_rescaled, f_M3GNet_rescaled))
 ```
+### Results
+You should get an array that shows the index of the structures that need to be sampled as an output for each iteration:
+
+`index of sampled structures: [369, 354, 353, 274, 258, 351, 350, 312, 25, 20]`
 
 ## Reference
 

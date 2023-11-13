@@ -111,7 +111,7 @@ You should get an array that shows the index of the structures that need to be s
 
 `index of sampled structures: [369, 354, 353, 274, 258, 351, 350, 312, 25, 20]`
 
-You should calculate the energy of these structures using DFT and re-iterate. 
+You should calculate the energy of these structures using DFT and reiterate. 
 
 ## Reference
 

@@ -81,7 +81,8 @@ w = np.zeros((n_structures, n_structures))
 np.fill_diagonal(w, 0.10)
 ```
  ### Iterative Optimization Loop
-This part of the code mainly remains the same except for the scaling part. You should change the following lines based on your variables:
+This part of the code mainly remains the same except for the scaling part. You should change the following lines (
+scaling factors) based on your variables: 
 
 ```python
 # Calculate scaling factors for various potential energy contributions
